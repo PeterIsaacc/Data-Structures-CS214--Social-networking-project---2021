@@ -1,11 +1,11 @@
 # Data Structures CS214: Social networking project - 2021
 **Introduction**
 
-You and your friends are building a smart social networking system (choose its name). You are going to compete with the facebook app. Competition is very hard, and you need to build strong features. One of the most critical parts of this system is user manager, and they decided you are the one to develop it. Are you up to the task? 
+Me and my friends are building a smart social networking system like facebook app. we are going to compete with the facebook app. Competition is very hard, and we need to build strong features. One of the most critical parts of this system is **user manager** , and we decided to develop it. 
 
 **Problem Statement**
 
-You are required to implement the user manager for your system. This is a program that keeps track of all user information (profile, friends, ..). You can also quickly reach a user through search.
+we are required to implement the **user manager** for your system. This is a program that keeps track of all user information (profile, friends, ..). we can also quickly reach a user through search.
 
 **Project Structure** 
 
